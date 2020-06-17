@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Title
+show_downloads: False
+logo: profile_photo.jpg
